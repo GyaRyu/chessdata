@@ -1,2 +1,2 @@
 # chessdata
-python training
+python training in some fide archives
